@@ -151,4 +151,4 @@ Add images and other contents using CSS record a screenshot of it.
 
 
 ## Result:
-Successfully designed a website to display the cover page of the book "Responsive Web Design with HTML5 and CSS
+Successfully designed a website to display the cover page of the book Responsive Web Design with HTML5 and CSS
